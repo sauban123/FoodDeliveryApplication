@@ -2,7 +2,7 @@
 
 # Food Delivery Application
 
-This repository contains an E-Commerce Delivery app with both user-side and admin-side applications. The app is designed to provide a seamless and efficient experience for both customers and administrators, featuring a wide range of functionalities similar to popular delivery platforms.
+This repository contains an  Food Delivery Application with both user-side and admin-side applications. The app is designed to provide a seamless and efficient experience for both customers and administrators, featuring a wide range of functionalities similar to popular delivery platforms.
 
 ## Features
 
