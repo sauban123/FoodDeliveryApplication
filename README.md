@@ -1,6 +1,6 @@
 ---
 
-# E-Commerce Delivery App
+# Food Delivery Application
 
 This repository contains an E-Commerce Delivery app with both user-side and admin-side applications. The app is designed to provide a seamless and efficient experience for both customers and administrators, featuring a wide range of functionalities similar to popular delivery platforms.
 
@@ -77,29 +77,3 @@ This repository contains an E-Commerce Delivery app with both user-side and admi
 - **APIs**: RESTful APIs for seamless integration with backend services
 - **UI/UX**: Material Design Components for intuitive and responsive interfaces
 - **Maps and Geolocation**: Google Maps API for location tracking and navigation
-
-## Getting Started
-
-To get a local copy of the project up and running, follow these steps:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/ecommerce-app.git
-   ```
-2. **Navigate to the User App or Admin App**:
-   ```bash
-   cd ecommerce-app/user-app
-   ```
-   or
-   ```bash
-   cd ecommerce-app/admin-app
-   ```
-3. **Open in Android Studio**:
-   Open the respective app folder in Android Studio to build and run the project.
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions or improvements, please feel free to create a pull request or open an issue.
-
-
----
