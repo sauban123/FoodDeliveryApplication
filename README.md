@@ -6,6 +6,7 @@ This repository contains an  Food Delivery Application with both user-side and a
 
 ## Features
 
+
 ### User-Side App
 
 1. **User Authentication**:
